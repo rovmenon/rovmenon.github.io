@@ -29,10 +29,8 @@ permalink: /about/
 <br>
 
 # About Me
-Originally from the suburbs of Chicago, I moved to Madison in 2019 to pursue my bachelor's degree in Data Science and a minor in Computer Science at UW-Madison. After graduating in December 2022, I decided to apply for grad school because I was interested in learning more about how analytics drives decision-making within a business. Because I had a really good experience at UW-Madison, I decided to take a chance and send an application to the Wisconsin School of Business for a master's degree in Business Analytics. After this, I took a trip to campus to visit some friends and received news that I had been admitted for the Business Analytics Program. 
+Originally from the Bay Area, I moved to Madison in 2019 to pursue my bachelor's degree in Data Science and a minor in Computer Science at UW-Madison. After graduating in May 2023, I decided to apply for grad school because I was interested in learning more and solidying my foundation with data analytics, data science and machine learning.
 
-Having just completed the program, I can definitely say that accepting the offer was one of the best decisions in my life. I was able to refine and advance my technical knowledge using modern technologies, gain an understanding of how analytics ties into the business world, network with leading industry professionals, and develop an appreciation for real-world challenges that they face and the solutions that they create. Additionally, I was able to deepen my relationship with my peers in my cohort and have developed a long-lasting camaraderie.
+Having almost completed my program, I can definitely say I have worked and met people who have refined and advanced my technical knowledge within the data science/AI world. I have worked on several projects that have improved my understanding of how data science ties into the real world, networked with leading industry professionals, and developed an appreciation for real-world challenges and the creation of solutions to combat them. 
 
-![Grad Friends Pic](/assets/img/IMG_2149.jpg)
-
-Outside of analytics and academics, my interests include photography, strength training, traveling internationally, and spending time with my friends and family.
+Outside of my education, my interests include golfing, strength training and spending time with my friends and family.
