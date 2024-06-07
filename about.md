@@ -8,7 +8,7 @@ permalink: /about/
         <img src="/assets/home_pic.webp" alt="Home" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">Home</span>
     </a>
-    <a href="/about" style="display: inline-block; text-align: center; margin-right: 10px;">
+    <a href="/about/" style="display: inline-block; text-align: center; margin-right: 10px;">
         <img src="/assets/about_pic.jpeg" alt="About Me" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">About Me</span>
     </a>
