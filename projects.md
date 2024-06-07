@@ -32,40 +32,34 @@ permalink: /projects/
 
 Here are some of the projects that I've completed and what I am currently working on:
 
-![AGCO_Logo](/assets/img/agco_logo.png)
-
-**Identifying Fraudulent Transactions in Travel and Expense Reports (AGCO Corporation)**:
+**Major City Classification utilizing Deep Learning Models**:
 
 **Date**: January 2024 to May 2024
 
-**Software Used**: Python, Tableau, Excel
-
-In collaboration with AGCO Corporation as part of my Consulting Practicum, I was tasked with identifying potential outliers in the company's travel and expense reports. During this project, I used Python to build and tune an Isolation Forest and a Principal Component Analysis model to automate anomaly detection, further enhancing each model's accuracy through continuous feedback and pattern analysis. After compiling a list of transactions that could be potential outliers, I piped the data into Tableau to create an interactive dashboard to present the main insights, allowing the audit team to quickly identify and investigate the suspicious reports. 
-
-
-**Estimating Vaccination Rates for H1N1 and Seasonal Influenza**:
-
-**Date**: November 2023 to December 2023
-
 **Software Used**: Python
 
-In this project, I used predictive modeling with the National 2009 H2N1 Flu Survey dataset to determine the individual vaccination likelihood for the 2009 H1N1 influenza virus and the seasonal influenza virus. Through careful data preprocessing that included accounting for missing values, ensuring all numeric variables were scaled properly, and encoding categorical variables in a binary representation, I verified that the data was prepared efficiently prior to constructing the machine learning models. The models that I constructed in this project were Logistic Regression, Random Forest Classification, XGBoost (Extreme Gradient Boosting), Decision Tree Classifier, Gaussian Naive Bayes, and LightGBM (Light Gradient Boosting Machine). By tuning each model's hyperparameters with Grid-Search Cross-Validation, I was able to effectively minimize computational resources and maximize ROC_AUC performance.
+As part of a class project, I collaborated on a deep learning project focused on predicting location based on major city photos. Developed a CNN architecture, including a custom model and ResNet-based variants finally creating a Gradio interface for seamless interaction with the model, enabling a real-time prediction of city locations from images with a 40% accuracy. A fellow classmate created the repo and can be accessed here: https://github.com/dskahill/city-photo-deep-learning
 
-To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Predict-Flu-Vaccination).
+**Roadside Reflectors Impact on Nighttime Driving Speeds**:
 
-**United States COVID-19 New Positive Changes in 2021**:
+**Date**:  January 2024 to May 2024
 
-**Date**: September 2023 to October 2023
+**Software Used**: R
+
+In this group project, we utilized A/B testing methodology to investigate the impact of roadside reflectors on nighttime driving speeds, analyzing whether their presence influences drivers' speed behavior. We achieved statistical significance with a sample size exceeding 800 cars, providing robust evidence on whether roadside reflectors induce significant changes in nighttime driving speeds.
+
+To learn see our final paper on this project, please visit my LinkedIn and go to project section of my profile.
+
+**Drive for Success: Analyzing the Top 200 Players in the PGA Tour**:
+
+**Date**: January 2024 to May 2024
 
 **Software Used**: Tableau
 
-In this project, I utilized COVID-19 data to determine how the amount of new positive cases in the United States changed over time in 2021. Using Tableau, I created several visualizations that included a dynamic map, line chart, table chart, and bar chart that integrated seamlessly together to create an interactive user-friendly dashboard. In doing so, I was able to pinpoint California as the state with the highest amount of new positive COVID-19 cases in the United States for 2021 and then created different visualizations to dive deeper into the state and county level.
+In this project, we crafted an interactive Tableau dashboard investigating performance metrics of the top 200 players on the PGA Tour, offering insights into driving, approach, recovery, and putting while also diving into the relationship between player performance and course characteristics.
 
-To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/COVID-CA-2021-Dashboard).
+To view our final product, please visit this website: (https://apps-spring.ischool.berkeley.edu/~bho1/w209/)
 
-Here is a screenshot of the dashboard at the county level for California below:
-
-![CA County Dashboard](/assets/img/CA-County-Dashboard.png)
 
 **Prototyping Cloud-Native Data Architecture**:
 
@@ -81,15 +75,6 @@ My final presentation about this project can be found below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GnT2lOavsAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Unveiling SpaceX Falcon9 Launch Success**:
-
-**Date**:  February 2023 to April 2023
-
-**Software Used**: Python, SQL, Folium, Plotly
-
-In this project, I performed web scraping with Python using the BeautifulSoup and Requests libraries to acquire Falcon 9 launch records from SpaceX. The main task was to identify and understand factors that influence these launches to assist competing startups in making a strategic bid against them. After that, I used Python and SQL to conduct exploratory data analysis and generate labeled data that could be used to create supervised models. Finally, I created an interactive dashboard with Plotly to allow for ease in launch record analysis, developed a proximity map with Folium for launch site analysis, and built/tuned several classification models to predict the success of the first stage landing.
-
-To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/SpaceX-Falcon9-Project/tree/main).
 
 **Classifying NFL Offensive Play Types**:
 
