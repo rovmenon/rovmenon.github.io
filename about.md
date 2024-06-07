@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 <div style="margin-top: 20px;">
