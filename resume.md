@@ -5,23 +5,23 @@ permalink: /resume/
 
 <div style="margin-top: 20px;">
     <a href="/" style="display: inline-block; text-align: center; margin-right: 10px;">
-        <img src="/assets/img/home.png" alt="Home" style="width: 100px; height: 100px;"><br>
+        <img src="/assets/home_pic.webp" alt="Home" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">Home</span>
     </a>
     <a href="/about" style="display: inline-block; text-align: center; margin-right: 10px;">
-        <img src="/assets/img/about_me.png" alt="About Me" style="width: 100px; height: 100px;"><br>
+        <img src="/assets/about_pic.jpeg" alt="About Me" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">About Me</span>
     </a>
     <a href="/resume" style="display: inline-block; text-align: center; margin-right: 10px;">
-        <img src="/assets/img/resume.png" alt="Resume" style="width: 100px; height: 100px;"><br>
+        <img src="/assets/resumes_pic.png" alt="Resume" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">Resume</span>
     </a>
     <a href="/projects" style="display: inline-block; text-align: center; margin-right: 10px;">
-        <img src="/assets/img/projects.png" alt="Projects" style="width: 100px; height: 100px;"><br>
+        <img src="/assets/project_pic.png" alt="Projects" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">Projects</span>
     </a>
     <a href="/contact" style="display: inline-block; text-align: center; margin-right: 10px;">
-        <img src="/assets/img/contact.png" alt="Contact" style="width: 100px; height: 100px;"><br>
+        <img src="/assets/contact_pic.png" alt="Contact" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">Contact</span>
     </a>
 </div>
