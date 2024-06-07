@@ -60,7 +60,8 @@ To learn more about this project, please visit the corresponding GitHub reposito
 
 In this project, we crafted an interactive Tableau dashboard investigating performance metrics of the top 200 players on the PGA Tour, offering insights into driving, approach, recovery, and putting while also diving into the relationship between player performance and course characteristics.
 
-To view our final product, please visit this website: (https://apps-spring.ischool.berkeley.edu/~bho1/w209/)
+
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/rovmenon/pga-tour-analysis.git).
 
 
 **Classifying NFL Offensive Play Types**:
