@@ -40,7 +40,7 @@ Here are some of the projects that I've completed and what I am currently workin
 
 As part of a class project, I collaborated on a deep learning project focused on predicting location based on major city photos. Developed a CNN architecture, including a custom model and ResNet-based variants finally creating a Gradio interface for seamless interaction with the model, enabling a real-time prediction of city locations from images with a 40% accuracy.
 
-To learn more about this project, please visit the corresponding GitHub repository [here](placeholder).
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/rovmenon/major-city-classification.git).
 
 **Roadside Reflectors Impact on Nighttime Driving Speeds**:
 
