@@ -50,7 +50,7 @@ To learn more about this project, please visit the corresponding GitHub reposito
 
 In this group project, we utilized A/B testing methodology to investigate the impact of roadside reflectors on nighttime driving speeds, analyzing whether their presence influences drivers' speed behavior. We achieved statistical significance with a sample size exceeding 800 cars, providing robust evidence on whether roadside reflectors induce significant changes in nighttime driving speeds.
 
-To learn more about this project, please visit the corresponding GitHub repository [here](placeholder).
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/rovmenon/roadside-reflectors.git).
 
 **Drive for Success: Analyzing the Top 200 Players in the PGA Tour**:
 
