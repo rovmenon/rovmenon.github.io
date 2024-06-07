@@ -1,3 +1,8 @@
+---
+title: Resume
+permalink: /resume/
+---
+
 <div style="margin-top: 20px;">
     <a href="/" style="display: inline-block; text-align: center; margin-right: 10px;">
         <img src="/assets/img/home.png" alt="Home" style="width: 100px; height: 100px;"><br>
@@ -23,8 +28,10 @@
 
 <br>
 
-# Welcome to my Portfolio!
+# Resume
 
-I am a recent Business Analytics Graduate from the Wisconsin School of Business and am currently searching for my future role. I am passionate about leveraging data to guide businesses in strategic decision-making and strongly believe in creating a collaborative team environment that follows diversity, equity, and inclusion principles. My core competencies include data extraction, data cleaning, data transformations, exploratory data analysis, and data visualization using software such as Python, R, SQL, Tableau, and PowerBI among others.
+Here is a copy of my most recent resume:
 
-I hope you enjoy your stay and please do not hesitate to reach out if you have any questions or want to learn more about me!
+<iframe src = "/assets/documents/Hasan Spring 2024 Resume.pdf" width = "100%" height = "1000px" style = "border: none;"></iframe>
+
+<p>If you have trouble viewing the embedded PDF, you can <a href="/assets/documents/Hasan Spring 2024 Resume.pdf" target="_blank">view it in a new tab</a> or <a href="/assets/documents/Hasan Spring 2024 Resume.pdf" download>download it</a>.</p>

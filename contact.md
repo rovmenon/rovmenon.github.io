@@ -1,3 +1,8 @@
+---
+title: Contact
+permalink: /contact/
+---
+
 <div style="margin-top: 20px;">
     <a href="/" style="display: inline-block; text-align: center; margin-right: 10px;">
         <img src="/assets/img/home.png" alt="Home" style="width: 100px; height: 100px;"><br>
@@ -23,8 +28,11 @@
 
 <br>
 
-# Welcome to my Portfolio!
+# Contact Me
 
-I am a recent Business Analytics Graduate from the Wisconsin School of Business and am currently searching for my future role. I am passionate about leveraging data to guide businesses in strategic decision-making and strongly believe in creating a collaborative team environment that follows diversity, equity, and inclusion principles. My core competencies include data extraction, data cleaning, data transformations, exploratory data analysis, and data visualization using software such as Python, R, SQL, Tableau, and PowerBI among others.
+If you are interested in some of my project experiences and would like to speak with me, please feel free to connect with me on LinkedIn or send me an email. I am always open to making new connections and would love to hear from you!
 
-I hope you enjoy your stay and please do not hesitate to reach out if you have any questions or want to learn more about me!
+Please click on any image to be redirected to my LinkedIn profile or to send me an email.
+
+[![LinkedIn](assets/img/LinkedInLogo.png){:height="55px" width="55px"}](https://www.linkedin.com/in/hasan-khan-2000/)
+[![Email](assets/img/email_logo.png){:height="50px" width="50px"}](mailto:hakhan62000@gmail.com)

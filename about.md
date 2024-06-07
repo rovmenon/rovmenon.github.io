@@ -1,3 +1,8 @@
+---
+title: About
+permalink: /about/
+---
+
 <div style="margin-top: 20px;">
     <a href="/" style="display: inline-block; text-align: center; margin-right: 10px;">
         <img src="/assets/img/home.png" alt="Home" style="width: 100px; height: 100px;"><br>
@@ -23,8 +28,11 @@
 
 <br>
 
-# Welcome to my Portfolio!
+# About Me
+Originally from the suburbs of Chicago, I moved to Madison in 2019 to pursue my bachelor's degree in Data Science and a minor in Computer Science at UW-Madison. After graduating in December 2022, I decided to apply for grad school because I was interested in learning more about how analytics drives decision-making within a business. Because I had a really good experience at UW-Madison, I decided to take a chance and send an application to the Wisconsin School of Business for a master's degree in Business Analytics. After this, I took a trip to campus to visit some friends and received news that I had been admitted for the Business Analytics Program. 
 
-I am a recent Business Analytics Graduate from the Wisconsin School of Business and am currently searching for my future role. I am passionate about leveraging data to guide businesses in strategic decision-making and strongly believe in creating a collaborative team environment that follows diversity, equity, and inclusion principles. My core competencies include data extraction, data cleaning, data transformations, exploratory data analysis, and data visualization using software such as Python, R, SQL, Tableau, and PowerBI among others.
+Having just completed the program, I can definitely say that accepting the offer was one of the best decisions in my life. I was able to refine and advance my technical knowledge using modern technologies, gain an understanding of how analytics ties into the business world, network with leading industry professionals, and develop an appreciation for real-world challenges that they face and the solutions that they create. Additionally, I was able to deepen my relationship with my peers in my cohort and have developed a long-lasting camaraderie.
 
-I hope you enjoy your stay and please do not hesitate to reach out if you have any questions or want to learn more about me!
+![Grad Friends Pic](/assets/img/IMG_2149.jpg)
+
+Outside of analytics and academics, my interests include photography, strength training, traveling internationally, and spending time with my friends and family.
