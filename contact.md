@@ -34,5 +34,5 @@ If you are interested in some of my project experiences and would like to speak 
 
 Please click on any image to be redirected to my LinkedIn profile or to send me an email.
 
-[![LinkedIn](assets/img/LinkedInLogo.png){:height="55px" width="55px"}](https://www.linkedin.com/in/hasan-khan-2000/)
-[![Email](assets/img/email_logo.png){:height="50px" width="50px"}](mailto:hakhan62000@gmail.com)
+[![LinkedIn](assets/linkedin_pic.png){:height="55px" width="55px"}](https://www.linkedin.com/in/a88b65165/)
+[![Email](assets/email_pic.png){:height="50px" width="50px"}](mailto:rvmenon@berkeley.edu)
