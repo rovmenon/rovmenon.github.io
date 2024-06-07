@@ -28,11 +28,3 @@ permalink: /contact/
 
 <br>
 
-# Contact Me
-
-If you are interested in some of my project experiences and would like to speak with me, please feel free to connect with me on LinkedIn or send me an email. I am always open to making new connections and would love to hear from you!
-
-Please click on any image to be redirected to my LinkedIn profile or to send me an email.
-
-[![LinkedIn](assets/linkedin_pic.png){:height="55px" width="55px"}](https://www.linkedin.com/in/a88b65165/)
-[![Email](assets/email_pic.png){:height="50px" width="50px"}](mailto:rvmenon@berkeley.edu)
