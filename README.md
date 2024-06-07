@@ -23,8 +23,8 @@
 
 <br>
 
-# Welcome to my Portfolio!
+# Hi! Welcome to my Portfolio!
 
-I am a recent Business Analytics Graduate from the Wisconsin School of Business and am currently searching for my future role. I am passionate about leveraging data to guide businesses in strategic decision-making and strongly believe in creating a collaborative team environment that follows diversity, equity, and inclusion principles. My core competencies include data extraction, data cleaning, data transformations, exploratory data analysis, and data visualization using software such as Python, R, SQL, Tableau, and PowerBI among others.
+I am currently pursuing a Master's degree in Information and Data Science at UC Berkeley but I graduated from UW-Madison with a Data Science Major and Computer Science Minor. I have an aspiring passion for sports, technology and finance. I have worked collaboratively across teams in several research projects equipping me skills in Python, R, SQL and Tableau as well as strong written and oral skills. I am actively seeking job opportunities where I can apply my passion for leveraging data to drive strategic business decisions. I am committed to fostering a collaborative team environment that embraces diversity, equity, and inclusion principles.
 
-I hope you enjoy your stay and please do not hesitate to reach out if you have any questions or want to learn more about me!
+Please feel free to reach out if you have any questions or would like to learn more about me!
