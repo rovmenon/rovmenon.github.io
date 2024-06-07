@@ -38,7 +38,9 @@ Here are some of the projects that I've completed and what I am currently workin
 
 **Software Used**: Python
 
-As part of a class project, I collaborated on a deep learning project focused on predicting location based on major city photos. Developed a CNN architecture, including a custom model and ResNet-based variants finally creating a Gradio interface for seamless interaction with the model, enabling a real-time prediction of city locations from images with a 40% accuracy. A fellow classmate created the repo and can be accessed here: https://github.com/dskahill/city-photo-deep-learning
+As part of a class project, I collaborated on a deep learning project focused on predicting location based on major city photos. Developed a CNN architecture, including a custom model and ResNet-based variants finally creating a Gradio interface for seamless interaction with the model, enabling a real-time prediction of city locations from images with a 40% accuracy.
+
+To learn more about this project, please visit the corresponding GitHub repository [here](placeholder).
 
 **Roadside Reflectors Impact on Nighttime Driving Speeds**:
 
@@ -48,7 +50,7 @@ As part of a class project, I collaborated on a deep learning project focused on
 
 In this group project, we utilized A/B testing methodology to investigate the impact of roadside reflectors on nighttime driving speeds, analyzing whether their presence influences drivers' speed behavior. We achieved statistical significance with a sample size exceeding 800 cars, providing robust evidence on whether roadside reflectors induce significant changes in nighttime driving speeds.
 
-To learn see our final paper on this project, please visit my LinkedIn and go to project section of my profile.
+To learn more about this project, please visit the corresponding GitHub repository [here](placeholder).
 
 **Drive for Success: Analyzing the Top 200 Players in the PGA Tour**:
 
@@ -61,21 +63,6 @@ In this project, we crafted an interactive Tableau dashboard investigating perfo
 To view our final product, please visit this website: (https://apps-spring.ischool.berkeley.edu/~bho1/w209/)
 
 
-**Prototyping Cloud-Native Data Architecture**:
-
-**Date**: September 2023 to October 2023
-
-**Software Used**: AWS S3, AWS Glue, AWS Redshift, AWS Sagemaker
-
-In this project, I became more familiar with using the cloud to perform data analysis. Specifically, I constructed a predictive machine learning model using AWS Sagemaker to assess the likelihood of bankruptcy for 10 companies that were being considered for a new portfolio. Moreover, I designed a cloud-native data architecture in AWS that has the capability to centralize data storage and streamline analytics. This architecture included the following steps: creating a landing zone for various data types and sources using AWS S3 and using AWS Redshift to create a data warehouse that consolidated balance sheets, income statements, and bankruptcy statuses for ease in access. Finally, I used AWS Glue to maintain efficient scalability and replicability through automation.
-
-To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Design-Cloud-Data-Architecture).
-
-My final presentation about this project can be found below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GnT2lOavsAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 **Classifying NFL Offensive Play Types**:
 
 **Date**: September 2021 to December 2021
@@ -84,4 +71,4 @@ My final presentation about this project can be found below:
 
 In this project, my goal was to determine whether NFL Offensive Plays can be predicted and classified by use of machine learning models. If successful, the ideal model could be used to assist a defensive team in devising strategies that are meant to counter a team that is known to execute certain types of plays. Specifically, I used NFL data from the 2020 season and created two Python notebook files: the first notebook was used to perform data cleaning, which consisted of removing plays in a column with specific conditions, verifying that the column is not null, standardizing certain values through mapping, and saving the data as a CSV file. Moreover, the second notebook was used to perform feature selection, encode categorical variables, and the primary model training steps. These steps included splitting the data into training and test sets, training the model using the training data, evaluating the model using training and validation sets, and printing out the model's performance scores. Some models used in the analysis include Decision Tree, K-Nearest Neighbors, Random Forest, Bagging, Adaptive Boosting, and Stacking.
 
-To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Predicting-NFL-Offensive-Plays).
+To learn more about this project, please visit the corresponding GitHub repository [here]().
