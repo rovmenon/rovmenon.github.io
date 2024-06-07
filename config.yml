@@ -1,0 +1,17 @@
+title: Hasan Khan
+logo: assets/img/Headshot.jpg
+description: MSBA Graduate from Wisconsin School of Business
+theme: jekyll-theme-minimal
+
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
