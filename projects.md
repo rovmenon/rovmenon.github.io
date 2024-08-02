@@ -28,6 +28,16 @@ permalink: /projects/
 
 Here are some of the notable projects that I've completed in the past and will be updated with new ones soon!
 
+**Writing Proficiency Classification using Transformer Models**:
+
+**Date**: June 2024 to August 2024
+
+**Software Used**: Python
+
+As part of a final group project, I collaborated on a NLP project focused on classifying English Language Learner's text into 5 different writing levels. We developed a baseline logistic regression then proceeded to use BERT and RoBERTA architecture mixed with CNN, LSTM and GRU layers architecture achieving above a 95& classification accuracy. We also integrated explainability methods such as LIME and large language models to create a more accurate and explainable system for assessing writing skill levels.
+
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/rovmenon/writing-proficiency.git).
+
 **Major City Classification utilizing Deep Learning Models**:
 
 **Date**: January 2024 to May 2024
