@@ -34,7 +34,7 @@ Here are some of the notable projects that I've completed in the past and will b
 
 **Software Used**: Python
 
-As part of a final group project, I collaborated on a NLP project focused on classifying English Language Learner's text into 5 different writing levels. We developed a baseline logistic regression then proceeded to use BERT and RoBERTA architecture mixed with CNN, LSTM and GRU layers architecture achieving above a 95& classification accuracy. We also integrated explainability methods such as LIME and large language models to create a more accurate and explainable system for assessing writing skill levels.
+As part of a final group project, I collaborated on a NLP project focused on classifying English Language Learner's text into 5 different writing levels. We developed a baseline logistic regression then proceeded to use BERT and RoBERTA architecture mixed with CNN, LSTM and GRU layers architecture achieving above a 95% classification accuracy. We also integrated explainability methods such as LIME and large language models to create a more accurate and explainable system for assessing writing skill levels.
 
 To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/rovmenon/writing-proficiency.git).
 
