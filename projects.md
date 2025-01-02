@@ -28,6 +28,26 @@ permalink: /projects/
 
 Here are some of the notable projects that I've completed in the past and will be updated with new ones soon!
 
+**apprAIse**
+**Date**: August 2024 to December 2024
+
+**Software Used**: Python, AWS Amplify, AWS Lambda, API Gateway, AWS Textract, React
+
+As part of my final capstone project in my Master's program, we built a used car appraisal system. Below gives more detail:
+Designed and deployed a 4-tier, serverless AI-powered car appraisal system on AWS to deliver real-time vehicle valuations and LLM-powered appraisal recommendations.
+
+ • Architected a frontend using React, hosted on AWS Amplify, enabling users to input car details and 
+ upload images for damage and valuation analysis.
+ • Implemented a backend using API Gateway, integrated with two Lambda functions for automated VIN 
+ detection via AWS Textract and damage analysis using YOLOv8 models.
+ • Leveraged the Market Value API to combine mileage, zip code, and damage severity for accurate price 
+ predictions and integrated a large language model (Claude 3 Haiku) to generate concise appraisal 
+ reports and depreciation forecasts.
+ • Stored models and outputs in AWS S3, ensuring seamless communication through API Gateway and 
+ enabling real-time, scalable processing.
+ • This project demonstrates expertise in cloud architecture, serverless computing, and deploying AI/ML 
+ solutions to solve practical business problems.
+
 **Writing Proficiency Classification using Transformer Models**:
 
 **Date**: June 2024 to August 2024
