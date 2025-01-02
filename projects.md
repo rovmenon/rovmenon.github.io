@@ -29,6 +29,7 @@ permalink: /projects/
 Here are some of the notable projects that I've completed in the past and will be updated with new ones soon!
 
 **apprAIse**
+
 **Date**: August 2024 to December 2024
 
 **Software Used**: Python, AWS Amplify, AWS Lambda, API Gateway, AWS Textract, React
