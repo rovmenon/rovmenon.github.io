@@ -30,6 +30,8 @@ Here are some of the notable projects that I've completed in the past and will b
 
 **apprAIse**
 
+Link: https://www.appraise-my-car.com/
+
 **Date**: August 2024 to December 2024
 
 **Software Used**: Python, AWS Amplify, AWS Lambda, API Gateway, AWS Textract, React
